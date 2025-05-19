@@ -1,0 +1,2 @@
+lorem30
+hi going with first time with git bash
