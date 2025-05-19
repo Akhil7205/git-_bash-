@@ -1,2 +1,4 @@
 lorem30
-hi going with first time with git bash
+hi going with first time with git bash with few edits
+
+with nitin
